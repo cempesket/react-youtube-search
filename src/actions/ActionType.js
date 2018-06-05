@@ -1,0 +1,4 @@
+export default {
+    GET_VIDEO_LIST:'GET_VIDEO_LIST',
+    SELECT_VIDEO:'SELECT_VIDEO'
+};
